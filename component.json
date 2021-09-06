@@ -3,9 +3,5 @@
 
     "scripts": [
         "index.js"
-    ],
-
-    "dependencies": {
-        "visionmedia/superagent" : "*"
-    }
+    ]
 }
